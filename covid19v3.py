@@ -1,14 +1,3 @@
-############################################
-#
-# Filter by country
-# Author : MS
-# Date : 16/03/2020
-# Update : 09/01/2022
-#
-# Replace the "___" by appropriate code
-#
-###########################################
-
 import urllib.request as urllib2
 import csv
 from covid19v1 import *
